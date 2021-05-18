@@ -4,7 +4,7 @@ Backend - Node.js
 Communication through REST API.
 ----------------------------------------
 # Demo Username and password
-username - manoranjan@gmail.com
+username - manoranjan@gmail.com<br>
 password - password@123
 ---------------------------------------
 # For running the back-end
